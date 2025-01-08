@@ -1,0 +1,14 @@
+{
+    "name": "my_project",
+    "version": "1.0.0",
+    "description": "A simple project connecting frontend and backend",
+    "main": "backend/app.js",
+    "scripts": {
+      "start": "node backend/app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
